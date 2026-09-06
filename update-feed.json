@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "product_id": "com.summitworkbench.panel",
+  "generated_at": "2026-09-06T06:59:22.977986Z",
+  "artifacts": [
+    {
+      "version": "0.4.1",
+      "build": "109",
+      "architecture": "arm64",
+      "minimum_macos": "13.0",
+      "download_url": "https://github.com/yifeng93/SummitWorkbench-Updates/releases/download/internal-109/SummitWorkbench-0.4.1-arm64-INTERNAL-DEV.dmg",
+      "sha256": "8fcc6332260be4d156be0edbe3f885d4cda4f838fa194a8ae7c06b998a4c8570",
+      "size": 47834908,
+      "release_notes": "SummitWorkbench 0.4.1 内部更新",
+      "signature": "Zny54E+tEmeGoA1JeRBQm9y9JJ1gnW9Up9bYcJP9wBvIL9ujKAXvKpCijUndUiIdKuXtXSbVB9NKED8gPdb/Dg==",
+      "public_key": "ISgjGjSYqyM70Y3OXxwqUORY23niRE4pm1a0Sb/n8Uk="
+    }
+  ]
+}
